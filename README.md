@@ -19,17 +19,19 @@ A modern front-end design that implements smooth scrolling and interactive anima
    git clone https://github.com/Dudekula-Safina-Begum/Ochi.git
 '''
 
-  cd Ochi 
+  cd ochi 
   npm install
   npm run dev
 
  
 ## 📸 Screenshots
 
+![EYE-Element](/Screenshot/Ochi.png)
+
 
 
 ## 🌐 Live Demo
-[Visit Ochi]()
+[Visit Ochi](https://dudekula-safina-begum.github.io/ochi/)
 
 
 
