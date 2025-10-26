@@ -26,7 +26,7 @@ A modern front-end design that implements smooth scrolling and interactive anima
  
 ## 📸 Screenshots
 
-![EYE-Element](./Screenshot/Ochi.png)
+![EYE-Element](/Screenshot/Ochi.png)
 
 
 
